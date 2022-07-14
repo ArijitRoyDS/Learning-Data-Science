@@ -1,0 +1,6 @@
+Sl No	    Dimension Reduction Technique	                      Description
+1	        Missing Value Ratio	                                Drop columns with missing values
+2	        Low Variance Filter	                                Drop columns with zero or low variance
+3	        High Correlation Filter (Multicollinearity)	        Drop highly correlated features
+4	        Random Forest (Limit max_features)	                Limits the maximum number of features
+5	        PCA	                                                Dimension Reduction Algorithm
