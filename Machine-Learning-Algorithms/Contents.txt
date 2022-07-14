@@ -1,0 +1,25 @@
+This repository is a Machine Learning Cookbook, providing Hands On Coding overview with Python and popular libraries like 
+Pandas, Numpy, Matplotlib, Seaborn, sk-learn, stats to name a few.
+
+Topics Covered:
+
+1)  Supervised Machine Learning
+    I)  Classification (Binary and Multiclass)
+        a)  Decision Tree Classifier
+        b)  Random Forest Classifier
+        c)  Support Vector Machines Classifier
+        d)  Logistic Regression Classifier
+        e)  Naïve Bayes Classifier
+        f)  K-Nearest Neighbor CLassifier
+    II) Regression
+        a)  Linear Regression
+        b)  Ridge Regression (L1)
+        c)  Lasso Regression (L2)
+        d)  Elastic Net Regression (Combination of L1 and L2)
+        e)  Decision Tree Regressor
+        f)  Random Forest Regressor
+        g)  Support Vector Regressor
+
+2)  Unsupervised Machine Learning
+    I)  Clustering
+        a)  K-Means Clustering
