@@ -43,11 +43,11 @@ Machine Learning Models:
             f)  Random Forest Regressor
             g)  Support Vector Regressor
 
-2)  Unsupervised Machine Learning
+    2)  Unsupervised Machine Learning
 
-        I)  Clustering
+            I)  Clustering
 
-            a)  K-Means Clustering
+                a)  K-Means Clustering
         
 Finally, you will find some Machine Learning Projects from Data Acquisition to Model Building and Evaluation to give you a holistic view of the entire workflow.
 
