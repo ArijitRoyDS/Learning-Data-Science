@@ -12,7 +12,7 @@ Exploratory Data Analysis:
 
     1)  Descriptive Statistics
     2)  Inferential Statistics
-    3)  Null Value Check and Treatment
+    3)  Missing / Null Value Check and Treatment
     4)  Outlier Treatment
     5)  Redundant Column Treatment
     6)  Removal of Zero Variance Columns
