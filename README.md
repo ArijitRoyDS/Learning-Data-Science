@@ -14,11 +14,10 @@ Exploratory Data Analysis:
     2)  Inferential Statistics
     3)  Missing / Null Value Check and Treatment
     4)  Outlier Treatment
-    5)  Redundant Column Treatment
-    6)  Removal of Zero Variance Columns
-    7)  Multicollinearity and Correlation Treatment / Dropping of Twin Variables
-    8)  Feature Engineering
-    9)  Feature Scaling and Standardization
+    5)  Redundant / Zero Variance Column Treatment
+    6)  Multicollinearity and Correlation Treatment / Dropping of Twin Variables
+    7)  Feature Engineering
+    8)  Feature Scaling and Standardization
 
 
 Machine Learning Models:
