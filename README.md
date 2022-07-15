@@ -1,10 +1,5 @@
 # Data-Science
-Complete Reference Guide to "Python for Data Science"
-
-This repository is a Statistics and Machine Learning Cookbook, providing Hands On Coding overview with Python and popular libraries like Pandas, Numpy, Matplotlib, Seaborn, sk-learn, stats to name a few.
-
-It covers various Machine Learning Models, Exploratory Data Analysis Techniques and End to End Projects that can help you refresh your Data Science skills.
-
+Complete Reference Guide to "Python for Data Science". This repository is a Statistics and Machine Learning Cookbook, providing Hands On Coding overview with Python and popular libraries like Pandas, Numpy, Matplotlib, Seaborn, sk-learn, scipy, stats, statsmodels to name a few. It covers various Machine Learning Models, Exploratory Data Analysis Techniques and End to End Projects that can help you refresh your Data Science skills.
 
 Topics Covered:
 
