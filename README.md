@@ -18,6 +18,7 @@ Exploratory Data Analysis:
     6)  Removal of Zero Variance Columns
     7)  Multicollinearity and Correlation Treatment / Dropping of Twin Variables
     8)  Feature Engineering
+    9)  Feature Scaling and Standardization
 
 
 Machine Learning Models:
