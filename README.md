@@ -3,7 +3,7 @@ Complete Reference Guide to "Python for Data Science". This repository is a Stat
 
 Topics Covered:
 
-Exploratory Data Analysis:
+Exploratory Data Analysis (EDA):
 
     1)  Descriptive Statistics
     2)  Inferential Statistics
