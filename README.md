@@ -24,10 +24,11 @@ Machine Learning Models:
 
             a)  Decision Tree Classifier
             b)  Random Forest Classifier
-            c)  Support Vector Machines Classifier
-            d)  Logistic Regression Classifier
-            e)  Naïve Bayes Classifier
-            f)  K-Nearest Neighbor CLassifier
+            c)  XG Boost
+            d)  Support Vector Machines Classifier
+            e)  Logistic Regression Classifier
+            f)  Naïve Bayes Classifier
+            g)  K-Nearest Neighbor CLassifier
 
         II) Regression
 
