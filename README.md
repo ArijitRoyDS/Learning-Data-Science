@@ -29,6 +29,9 @@ Machine Learning Models:
             e)  Logistic Regression Classifier
             f)  Naïve Bayes Classifier
             g)  K-Nearest Neighbor CLassifier
+            h)  Stacking Classifier
+            i)  Local Outlier Factor
+            j)  Isolation Forest
 
         II) Regression
 
