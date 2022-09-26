@@ -14,6 +14,7 @@ Exploratory Data Analysis (EDA):
     7)  Multicollinearity and Correlation Treatment / Dropping of Twin Variables
     8)  Feature Engineering
     9)  Feature Scaling and Standardization
+    10) Sentiment Analysis and Web-Scraping
 
 
 Machine Learning Models:
